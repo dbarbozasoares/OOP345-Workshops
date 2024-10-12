@@ -1,3 +1,16 @@
+/*/////////////////////////////////////////////////////////////////////////
+						 Workshop 2
+Full Name  : Diego Barboza Soares
+Student ID#: 145820239
+Email      : dbarboza-soares@myseneca.ca
+Section    : NCC
+Date       : 12th Octuber 2024
+
+Authenticity Declaration:
+
+I have done all the coding by myself and only copied the code that my
+professor provided to complete my workshops and assignments.
+/////////////////////////////////////////////////////////////////////////*/
 #ifndef SENECA_ABILITIES_H
 #define SENECA_ABILITIES_H
 #include <iostream>

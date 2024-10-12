@@ -1,3 +1,16 @@
+/*/////////////////////////////////////////////////////////////////////////
+						 Workshop 2
+Full Name  : Diego Barboza Soares
+Student ID#: 145820239
+Email      : dbarboza-soares@myseneca.ca
+Section    : NCC
+Date       : 12th Octuber 2024
+
+Authenticity Declaration:
+
+I have done all the coding by myself and only copied the code that my
+professor provided to complete my workshops and assignments.
+/////////////////////////////////////////////////////////////////////////*/
 #ifndef SENECA_ARCHER_H
 #define SENECA_ARCHER_H
 
@@ -36,11 +49,11 @@ namespace seneca {
 
 	// Attack amount with bonus
 	template<class Weapon_t>
-	int Archer<Weapon_t>::getAttackAmnt() const { return static_cast<int>(1.3 * m_baseAttack); }
+	int Archer<Weapon_t>::getAttackAmnt() const { return (1.3 * m_baseAttack); }
 
 	// Defense amount with bonus
 	template<class Weapon_t>
-	int Archer<Weapon_t>::getDefenseAmnt() const { return static_cast<int>(1.2 * m_baseDefense); }
+	int Archer<Weapon_t>::getDefenseAmnt() const { return (1.2 * m_baseDefense); }
 
 	// Clone method returning copy reference from current object
 	template<class Weapon_t>
