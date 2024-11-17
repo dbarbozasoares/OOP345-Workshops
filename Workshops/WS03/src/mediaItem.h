@@ -23,7 +23,7 @@ namespace seneca
 		}
 	public:
 		MediaItem(const std::string& title, const std::string& summary, unsigned short year) :
-			m_title{title}, m_summary{summary}, m_year{year} { }
+			m_title{ title }, m_summary{ summary }, m_year{ year } { }
 		virtual ~MediaItem() = default;
 
 		std::string getTitle() const { return m_title; }

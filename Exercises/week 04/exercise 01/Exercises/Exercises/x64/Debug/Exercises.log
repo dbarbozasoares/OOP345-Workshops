@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\diego\OneDrive\Documents\WorkShop-Seneca\ThirdSemester\OOP345\OOP345-Workshops\Exercises\week 04\exercise 01\Exercises\Exercises\main.cpp(15,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\diego\OneDrive\Documents\WorkShop-Seneca\ThirdSemester\OOP345\OOP345-Workshops\Exercises\week 04\exercise 01\Exercises\Exercises\main.cpp(20,10): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\diego\OneDrive\Documents\WorkShop-Seneca\ThirdSemester\OOP345\OOP345-Workshops\Exercises\week 04\exercise 01\Exercises\Exercises\main.cpp(26,16): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\diego\OneDrive\Documents\WorkShop-Seneca\ThirdSemester\OOP345\OOP345-Workshops\Exercises\week 04\exercise 01\Exercises\Exercises\main.cpp(31,16): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Exercises.vcxproj -> C:\Users\diego\OneDrive\Documents\WorkShop-Seneca\ThirdSemester\OOP345\OOP345-Workshops\Exercises\week 04\exercise 01\Exercises\x64\Debug\Exercises.exe

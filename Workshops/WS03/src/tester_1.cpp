@@ -1,7 +1,3 @@
-// Workshop 3 - STL Containers and Algorithms
-// 2024/11/03 - If this code works, it was created by Cornel
-//            - If it doesn't work, I don't know who wrote it.
-
 #include <iostream>
 #include <iomanip>
 #include <fstream>
@@ -22,25 +18,25 @@
 
 // Cheching if header guards exist and follow convention.
 #ifndef SENECA_SETTINGS_H
-    #error "The header guard for 'settings.h' doesn't follow the convention!"
+#error "The header guard for 'settings.h' doesn't follow the convention!"
 #endif
 #ifndef SENECA_MEDIAITEM_H
-    #error "The header guard for 'mediaItem.h' doesn't follow the convention!"
+#error "The header guard for 'mediaItem.h' doesn't follow the convention!"
 #endif
 #ifndef SENECA_BOOK_H
-    #error "The header guard for 'book.h' doesn't follow the convention!"
+#error "The header guard for 'book.h' doesn't follow the convention!"
 #endif
 #ifndef SENECA_MOVIE_H
-    #error "The header guard for 'movie.h' doesn't follow the convention!"
+#error "The header guard for 'movie.h' doesn't follow the convention!"
 #endif
 #ifndef SENECA_TVSHOW_H
-    #error "The header guard for 'tvShow.h' doesn't follow the convention!"
+#error "The header guard for 'tvShow.h' doesn't follow the convention!"
 #endif
 #ifndef SENECA_SPELLCHECKER_H
-    #error "The header guard for 'spellChecker.h' doesn't follow the convention!"
+#error "The header guard for 'spellChecker.h' doesn't follow the convention!"
 #endif
 #ifndef SENECA_COLLECTION_H
-    #error "The header guard for 'collection.h' doesn't follow the convention!"
+#error "The header guard for 'collection.h' doesn't follow the convention!"
 #endif
 
 int cout = 0; // won't compile if headers don't follow convention regarding namespaces
